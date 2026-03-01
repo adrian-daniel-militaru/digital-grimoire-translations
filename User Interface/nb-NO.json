@@ -18,6 +18,7 @@
     "leaves": "Blader",
     "flip": "Snu horisontalt",
     "circle": "Sirkel",
+    "ellipse": "Ellipse",
     "rainbow": "Regnbue",
     "rearrange": "Omorganiser",
     "first_player": "Første spiller",
@@ -135,7 +136,8 @@
       "edition": "Utgave",
       "all": "Alle",
       "on_script": "I skriptet",
-      "available": "Tilgjengelig"
+      "available": "Tilgjengelig",
+      "search_roles": "Søk roller..."
     },
     "advanced_search": {
       "title": "Avansert søk",
@@ -438,6 +440,7 @@
     "download_only_database": "Nedlasting er bare tilgjengelig for databaseskript",
     "download_script_title": "Last ned {scriptName}",
     "or_load_own_script": "eller last inn ditt eget skript",
+    "botc_scripts_available": "Alle skript fra botcscripts.com tilgjengelig",
     "from_url": "Fra URL",
     "from_file": "Fra fil",
     "from_json": "Fra JSON",
@@ -464,7 +467,7 @@
     "hide_role_details": "Skjul rolledetaljer",
     "show_spy_view": "Vis spionvisning",
     "hide_spy_view": "Skjul spionvisning",
-    "rearrange_tokens": "Omorganiser tokens",
+    "rearrange_tokens": "Omorganiser spillere",
     "edit_background": "Rediger bakgrunn...",
     "edit_night_icons": "Rediger nattrekkefølge-ikoner...",
     "nominations": "Nominasjoner",
@@ -478,7 +481,14 @@
     "save_notes": "Lagre notater",
     "game_notes": "Spillnotater",
     "viewing_history": "Viser historikk",
-    "history_tracking": "Historikk"
+    "history_tracking": "Historikk",
+        "enable_history_view": "Aktiver historikkvisning",
+        "disable_history_view": "Deaktiver historikkvisning",
+        "town_info_alive": "I live",
+        "town_info_travellers": "Reisende",
+        "town_info_dead": "Døde",
+        "town_info_votes": "Gjenværende stemmer",
+        "town_info_majority": "Flertall"
   },
   "draw_tokens": {
     "random_draw": "Tilfeldig trekking",

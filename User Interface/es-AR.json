@@ -16,6 +16,7 @@
     "all": "Todos",
     "layout": "Disposición",
     "circle": "Círculo",
+    "ellipse": "Elipse",
     "rainbow": "Arcoíris",
     "rearrange": "Reorganizar",
     "first_player": "Primer jugador",
@@ -144,7 +145,8 @@
       "edition": "Edición",
       "all": "Todos",
       "on_script": "En el guión",
-      "available": "Disponibles"
+      "available": "Disponibles",
+      "search_roles": "Buscar roles..."
     },
     "advanced_search": {
       "title": "Búsqueda avanzada",
@@ -438,6 +440,7 @@
     "download_only_database": "Sólo se permite la descarga de guiones de la base de datos",
     "download_script_title": "Descargar {scriptName}",
     "or_load_own_script": "o cargá tu propio guión",
+    "botc_scripts_available": "Todos los guiones de botcscripts.com disponibles",
     "from_url": "Desde URL",
     "from_file": "Desde archivo",
     "from_json": "Desde JSON",
@@ -464,7 +467,7 @@
     "hide_role_details": "Ocultar detalles del rol",
     "show_spy_view": "Mostrar vista del Espía/Viuda",
     "hide_spy_view": "Ocultar vista del Espía/Viuda",
-    "rearrange_tokens": "Reordenar las fichas",
+    "rearrange_tokens": "Reordenar los jugadores",
     "edit_background": "Editar fondo...",
     "edit_night_icons": "Editar iconos del orden nocturno...",
     "nominations": "Nominaciones",
@@ -478,7 +481,14 @@
     "save_notes": "Guardar notas",
     "game_notes": "Notas de la partida",
     "viewing_history": "Viendo Historial",
-    "history_tracking": "Historial"
+    "history_tracking": "Historial",
+        "enable_history_view": "Activar vista de historial",
+        "disable_history_view": "Desactivar vista de historial",
+        "town_info_alive": "Vivos",
+        "town_info_travellers": "Viajeros",
+        "town_info_dead": "Muertos",
+        "town_info_votes": "Votos Restantes",
+        "town_info_majority": "Mayoría"
   },
   "draw_tokens": {
     "random_draw": "Robo aleatorio de fichas",

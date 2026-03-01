@@ -18,6 +18,7 @@
     "leaves": "Leaves",
     "flip": "Flip Horizontally",
     "circle": "Circle",
+    "ellipse": "Ellipse",
     "rainbow": "Rainbow",
     "rearrange": "Rearrange",
     "first_player": "First Player",
@@ -144,7 +145,8 @@
       "edition": "Edition",
       "all": "All",
       "on_script": "On Script",
-      "available": "Available"
+      "available": "Available",
+      "search_roles": "Search roles..."
     },
     "advanced_search": {
       "title": "Advanced Search",
@@ -440,6 +442,7 @@
     "download_only_database": "Download only available for database scripts",
     "download_script_title": "Download {scriptName}",
     "or_load_own_script": "or load your own script",
+    "botc_scripts_available": "All scripts from botcscripts.com available",
     "from_url": "From URL",
     "from_file": "From File",
     "from_json": "From JSON",
@@ -466,7 +469,7 @@
     "hide_role_details": "Hide Role Details",
     "show_spy_view": "Show Spy View",
     "hide_spy_view": "Hide Spy View",
-    "rearrange_tokens": "Rearrange Tokens",
+    "rearrange_tokens": "Rearrange Players",
     "edit_background": "Edit Background...",
     "nominations": "Nominations",
     "create_town": "Create Town",
@@ -479,7 +482,14 @@
     "save_notes": "Save Notes",
     "game_notes": "Game Notes",
     "viewing_history": "Viewing History",
-    "history_tracking": "View History"
+    "history_tracking": "View History",
+        "enable_history_view": "Enable History View",
+        "disable_history_view": "Disable History View",
+        "town_info_alive": "Alive",
+        "town_info_travellers": "Travellers",
+        "town_info_dead": "Dead",
+        "town_info_votes": "Votes Remaining",
+        "town_info_majority": "Majority"
   },
   "draw_tokens": {
     "random_draw": "Random Draw",

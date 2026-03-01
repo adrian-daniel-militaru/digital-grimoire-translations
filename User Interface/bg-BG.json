@@ -18,6 +18,7 @@
     "leaves": "листенцата",
     "flip": "Обърни хоризонтално",
     "circle": "Кръг",
+    "ellipse": "Елипса",
     "rainbow": "Дъга",
     "u_shape": "u Форма",
     "rearrange": "Пренареди",
@@ -145,7 +146,8 @@
       "edition": "Сценарий",
       "all": "Всички",
       "on_script": "В сценария",
-      "available": "Налични"
+      "available": "Налични",
+      "search_roles": "Търсене на роли..."
     },
     "advanced_search": {
       "title": "Разширено търсене",
@@ -442,6 +444,7 @@
     "download_only_database": "Изтегли само сценариите, подходящи за база данни",
     "download_script_title": "Изтегли {scriptName}",
     "or_load_own_script": "или зареди свой собствен сценарий",
+    "botc_scripts_available": "Всички сценарии от botcscripts.com са налични",
     "from_url": "От URL",
     "from_file": "От файл",
     "from_json": "От JSON",
@@ -468,7 +471,7 @@
     "hide_role_details": "Скрий описанието на ролите",
     "show_spy_view": "Покажи изгледа за Шпионина",
     "hide_spy_view": "Скрий изгледа за Шпионина",
-    "rearrange_tokens": "Пренареди токените",
+    "rearrange_tokens": "Пренареди играчите",
     "edit_background": "Редактирай фона...",
     "edit_night_icons": "Редактирай иконите за нощния ред...",
     "nominations": "Номинации",
@@ -482,7 +485,14 @@
     "save_notes": "Запази бележките",
     "game_notes": "Бележки за играта",
     "viewing_history": "Преглед на историята",
-    "history_tracking": "История"
+    "history_tracking": "История",
+        "enable_history_view": "Активирай историята",
+        "disable_history_view": "Деактивирай историята",
+        "town_info_alive": "Живи",
+        "town_info_travellers": "Пътници",
+        "town_info_dead": "Мъртви",
+        "town_info_votes": "Оставащи гласове",
+        "town_info_majority": "Мнозинство"
   },
   "draw_tokens": {
     "random_draw": "Случайно разпределение",

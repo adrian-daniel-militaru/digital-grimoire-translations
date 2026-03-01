@@ -18,6 +18,7 @@
     "leaves": "Blätter",
     "flip": "Horizontal umkehren",
     "circle": "Kreis",
+    "ellipse": "Ellipse",
     "rainbow": "Regenbogen",
     "rearrange": "Neu anordnen",
     "first_player": "Erster Spieler",
@@ -144,7 +145,8 @@
       "edition": "Edition",
       "all": "Alle",
       "on_script": "Im Skript",
-      "available": "Verfügbar"
+      "available": "Verfügbar",
+      "search_roles": "Rollen suchen..."
     },
     "advanced_search": {
       "title": "Erweiterte Suche",
@@ -438,6 +440,7 @@
     "download_only_database": "Download nur für Datenbank-Skripte verfügbar",
     "download_script_title": "{scriptName} herunterladen",
     "or_load_own_script": "oder laden Sie Ihr eigenes Skript",
+    "botc_scripts_available": "Alle Skripte von botcscripts.com verfügbar",
     "from_url": "Von URL",
     "from_file": "Von Datei",
     "from_json": "Von JSON",
@@ -464,7 +467,7 @@
     "hide_role_details": "Rollendetails ausblenden",
     "show_spy_view": "Spionansicht anzeigen",
     "hide_spy_view": "Spionansicht ausblenden",
-    "rearrange_tokens": "Token neu anordnen",
+    "rearrange_tokens": "Spieler neu anordnen",
     "edit_background": "Hintergrund bearbeiten...",
     "edit_night_icons": "Nachtordnung-Symbole bearbeiten...",
     "nominations": "Nominierungen",
@@ -478,7 +481,14 @@
     "save_notes": "Notizen speichern",
     "game_notes": "Spielnotizen",
     "viewing_history": "Verlauf anzeigen",
-    "history_tracking": "Verlauf"
+    "history_tracking": "Verlauf",
+        "enable_history_view": "Verlaufsansicht aktivieren",
+        "disable_history_view": "Verlaufsansicht deaktivieren",
+        "town_info_alive": "Lebend",
+        "town_info_travellers": "Reisende",
+        "town_info_dead": "Tot",
+        "town_info_votes": "Verbleibende Stimmen",
+        "town_info_majority": "Mehrheit"
   },
   "draw_tokens": {
     "random_draw": "Zufällige Ziehung",

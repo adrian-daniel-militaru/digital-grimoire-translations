@@ -18,6 +18,7 @@
     "leaves": "Feuilles",
     "flip": "Inverser horizontalement",
     "circle": "Cercle",
+    "ellipse": "Ellipse",
     "rainbow": "Arc-en-ciel",
     "rearrange": "Réorganiser",
     "first_player": "Premier joueur",
@@ -135,7 +136,8 @@
       "edition": "Édition",
       "all": "Tous",
       "on_script": "Dans le script",
-      "available": "Disponibles"
+      "available": "Disponibles",
+      "search_roles": "Rechercher des rôles..."
     },
     "advanced_search": {
       "title": "Recherche avancée",
@@ -438,6 +440,7 @@
     "download_only_database": "Téléchargement disponible uniquement pour les scripts de base de données",
     "download_script_title": "Télécharger {scriptName}",
     "or_load_own_script": "ou chargez votre propre script",
+    "botc_scripts_available": "Tous les scripts de botcscripts.com disponibles",
     "from_url": "Depuis un lien",
     "from_file": "Depuis un fichier",
     "from_json": "Depuis un JSON",
@@ -464,7 +467,7 @@
     "hide_role_details": "Cacher les rôles",
     "show_spy_view": "Afficher la vue espion",
     "hide_spy_view": "Cacher la vue espion",
-    "rearrange_tokens": "Réorganiser les jetons",
+    "rearrange_tokens": "Réorganiser les joueurs",
     "edit_background": "Modifier l'arrière-plan...",
     "edit_night_icons": "Modifier les icônes de l'ordre de nuit...",
     "nominations": "Nominations",
@@ -478,7 +481,14 @@
     "save_notes": "Enregistrer les notes",
     "game_notes": "Notes de partie",
     "viewing_history": "Consultation de l'historique",
-    "history_tracking": "Historique"
+    "history_tracking": "Historique",
+        "enable_history_view": "Activer l'historique",
+        "disable_history_view": "Désactiver l'historique",
+        "town_info_alive": "Vivants",
+        "town_info_travellers": "Voyageurs",
+        "town_info_dead": "Morts",
+        "town_info_votes": "Votes Restants",
+        "town_info_majority": "Majorité"
   },
   "draw_tokens": {
     "random_draw": "Tirage aléatoire",

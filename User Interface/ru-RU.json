@@ -18,6 +18,7 @@
     "leaves": "Листья",
     "flip": "Перевернуть горизонтально",
     "circle": "Круг",
+    "ellipse": "Эллипс",
     "rainbow": "Радуга",
     "rearrange": "Изменить рассадку",
     "first_player": "Первый игрок",
@@ -144,7 +145,8 @@
       "edition": "Сценарий",
       "all": "Все",
       "on_script": "В сценарии",
-      "available": "Доступные"
+      "available": "Доступные",
+      "search_roles": "Поиск ролей..."
     },
     "advanced_search": {
       "title": "Расширенный поиск",
@@ -438,6 +440,7 @@
     "download_only_database": "Скачивание доступно только для сценариев из базы",
     "download_script_title": "Скачать {scriptName}",
     "or_load_own_script": "или загрузить свой сценарий",
+    "botc_scripts_available": "Все сценарии из botcscripts.com доступны",
     "from_url": "По URL",
     "from_file": "Из файла",
     "from_json": "Из JSON",
@@ -464,7 +467,7 @@
     "hide_role_details": "Скрыть детали роли",
     "show_spy_view": "Показать вид шпиона",
     "hide_spy_view": "Скрыть вид шпиона",
-    "rearrange_tokens": "Изменить расположение жетонов",
+    "rearrange_tokens": "Изменить расположение игроков",
     "edit_background": "Изменить фон...",
     "edit_night_icons": "Изменить иконки ночного порядка...",
     "nominations": "Номинации",
@@ -478,7 +481,14 @@
     "save_notes": "Сохранить заметки",
     "game_notes": "Заметки об игре",
     "viewing_history": "Просмотр истории",
-    "history_tracking": "История"
+    "history_tracking": "История",
+        "enable_history_view": "Включить просмотр истории",
+        "disable_history_view": "Выключить просмотр истории",
+        "town_info_alive": "Живые",
+        "town_info_travellers": "Путешественники",
+        "town_info_dead": "Мёртвые",
+        "town_info_votes": "Оставшиеся голоса",
+        "town_info_majority": "Большинство"
   },
   "draw_tokens": {
     "random_draw": "Случайная выдача",

@@ -18,6 +18,7 @@
     "leaves": "Foglie",
     "flip": "Specchia Orizzontalmente",
     "circle": "Cerchio",
+    "ellipse": "Ellisse",
     "rainbow": "Arcobaleno",
     "rearrange": "Riorganizza",
     "first_player": "Primo Giocatore",
@@ -144,7 +145,8 @@
       "edition": "Edizione",
       "all": "Tutti",
       "on_script": "Nel Copione",
-      "available": "Disponibili"
+      "available": "Disponibili",
+      "search_roles": "Cerca ruoli..."
     },
     "advanced_search": {
       "title": "Ricerca Avanzata",
@@ -440,6 +442,7 @@
     "download_only_database": "Download disponibile solo per i copioni del database",
     "download_script_title": "Scarica {scriptName}",
     "or_load_own_script": "oppure carica il tuo copione",
+    "botc_scripts_available": "Tutti i copioni di botcscripts.com disponibili",
     "from_url": "Da URL",
     "from_file": "Da File",
     "from_json": "Da JSON",
@@ -466,7 +469,7 @@
     "hide_role_details": "Nascondi Dettagli Ruolo",
     "show_spy_view": "Mostra Vista Spia",
     "hide_spy_view": "Nascondi Vista Spia",
-    "rearrange_tokens": "Riordina i gettoni",
+    "rearrange_tokens": "Riordina i giocatori",
     "edit_background": "Modifica Sfondo...",
     "nominations": "Nomine",
     "create_town": "Crea Città",
@@ -479,7 +482,14 @@
     "save_notes": "Salva Note",
     "game_notes": "Note della Partita",
     "viewing_history": "Visualizza Cronologia",
-    "history_tracking": "Cronologia"
+    "history_tracking": "Cronologia",
+        "enable_history_view": "Abilita vista cronologia",
+        "disable_history_view": "Disabilita vista cronologia",
+        "town_info_alive": "Vivi",
+        "town_info_travellers": "Viaggiatori",
+        "town_info_dead": "Morti",
+        "town_info_votes": "Voti Rimanenti",
+        "town_info_majority": "Maggioranza"
   },
   "draw_tokens": {
     "random_draw": "Pesca Casuale",
