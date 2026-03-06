@@ -57,7 +57,8 @@
     "select_role": "Sélectionner un rôle...",
     "enabled": "Activé",
     "disabled": "Désactivé",
-    "end_game": "Fin de partie"
+    "end_game": "Fin de partie",
+    "resize": "Redimensionner"
   },
   "nav": {
     "brand": "Grimoire Numérique",
@@ -359,6 +360,9 @@
       "error": "Échec de l'export de la partie vers Clocktracker",
       "player_order": "Ordre des joueurs"
     },
+    "edit_night_order": {
+      "title": "Modifier l'ordre de nuit"
+    },
     "night_icons": {
       "title": "Icônes de l'ordre de nuit",
       "icon_size": "Taille des icônes",
@@ -425,13 +429,15 @@
     "multiple_demons_warning": "Plusieurs démons détectés qui n'autorisent pas plusieurs instances.",
     "player_names": "Noms des joueurs",
     "player_placeholder": "Joueur {number}",
-    "save_names": "Enregistrer les noms",
+    "add_as_player": "Ajouter comme joueur",
+    "add_as_friend": "Ajouter comme ami",
+    "active": "Actif",
+    "no_players_added": "Aucun joueur ajouté pour le moment.",
     "persist_players_prompt": "Conservez les noms de vos joueurs pour les parties futures en vous connectant à Discord et en les ajoutant à votre liste d'amis.",
-    "friends_list_prompt": "Ouvrez le menu Utilisateur pour gérer votre liste d'amis. Les amis sont automatiquement inclus dans la section 'Ajout rapide' lors du tirage des jetons, sans avoir besoin de les ajouter ici.",
     "clear": "Effacer",
     "by": "par",
     "view_bootlegger_info": "Voir les informations du Contrebandier",
-    "edit_names_optional": "Modifier les noms (Optionnel)",
+    "edit_names_optional": "Choisir les joueurs",
     "search_placeholder": "Rechercher un nom (par ex. Uncertain Death)",
     "unknown": "inconnu",
     "no_matching_scripts": "Aucun script correspondant trouvé",
@@ -673,22 +679,12 @@
     "title": "Politique de confidentialité"
   },
   "vote": {
-    "voting_on": "Vote sur",
-    "how_many_votes_receive": "Combien de votes {playerName} a reçu ?",
     "nominates": "nomine",
     "to_tie": "pour égalité",
     "to_execute": "pour exécuter",
     "votes_needed_to": "Votes nécessaires pour",
     "exile": "exiler",
-    "execute": "exécuter",
-    "voting_in_progress": "Vote en cours...",
-    "count_the_votes": "Comptez les votes...",
-    "start": "Démarrer",
-    "skip": "Passer",
-    "speed": "Vitesse",
-    "speed_normal": "1x (Normal)",
-    "speed_fast": "2x (Rapide)",
-    "speed_very_fast": "3x (Très rapide)"
+    "execute": "exécuter"
   },
   "drawer": {
     "edit_player_name": "Modifier le nom du joueur",

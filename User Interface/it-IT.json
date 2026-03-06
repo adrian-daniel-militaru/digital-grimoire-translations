@@ -57,7 +57,8 @@
     "send": "Invia",
     "enabled": "Attivo",
     "disabled": "Disattivo",
-    "end_game": "Termina Partita"
+    "end_game": "Termina Partita",
+    "resize": "Ridimensiona"
   },
   "errors": {
     "translation_database_only": "Solo gli script caricati dal database possono essere tradotti al momento."
@@ -370,6 +371,9 @@
       "error": "Impossibile esportare la partita su Clocktracker",
       "player_order": "Ordine Giocatori"
     },
+    "edit_night_order": {
+      "title": "Modifica ordine notturno"
+    },
     "night_icons": {
       "title": "Icone Ordine Notte",
       "icon_size": "Dimensione Icone",
@@ -427,13 +431,15 @@
     "multiple_demons_warning": "Rilevati più Demoni che non consentono istanze multiple.",
     "player_names": "Nomi dei Giocatori",
     "player_placeholder": "Giocatore {number}",
-    "save_names": "Salva Nomi",
+    "add_as_player": "Aggiungi come giocatore",
+    "add_as_friend": "Aggiungi come amico",
+    "active": "Attivo",
+    "no_players_added": "Nessun giocatore aggiunto ancora.",
     "persist_players_prompt": "Salva i nomi dei giocatori per le partite future accedendo con Discord e aggiungendoli alla lista amici.",
-    "friends_list_prompt": "Apri il menu Utente per gestire la lista amici. Gli amici vengono inclusi automaticamente nella sezione 'Aggiunta Rapida' durante la pesca dei gettoni.",
     "clear": "Cancella",
     "by": "di",
     "view_bootlegger_info": "Visualizza informazioni del Bootlegger",
-    "edit_names_optional": "Modifica Nomi (Opzionale)",
+    "edit_names_optional": "Scegli giocatori",
     "search_placeholder": "Cerca per nome (e.g. Uncertain Death)",
     "unknown": "sconosciuto",
     "no_matching_scripts": "Nessun copione trovato",
@@ -676,22 +682,12 @@
     "title": "Informativa sulla privacy"
   },
   "vote": {
-    "voting_on": "Votazione su",
-    "how_many_votes_receive": "Quanti voti ha ricevuto {playerName}?",
     "nominates": "nomina",
     "to_tie": "per pareggiare",
     "to_execute": "per giustiziare",
     "votes_needed_to": "Voti necessari per",
     "exile": "esiliare",
-    "execute": "giustiziare",
-    "voting_in_progress": "Votazione in corso...",
-    "count_the_votes": "Conta i voti...",
-    "start": "Avvia",
-    "skip": "Salta",
-    "speed": "Velocità",
-    "speed_normal": "1x (Normale)",
-    "speed_fast": "2x (Veloce)",
-    "speed_very_fast": "3x (Molto Veloce)"
+    "execute": "giustiziare"
   },
   "drawer": {
     "edit_player_name": "Modifica nome giocatore",

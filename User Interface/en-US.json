@@ -57,7 +57,8 @@
     "send": "Send",
     "enabled": "Enabled",
     "disabled": "Disabled",
-    "end_game": "End Game"
+    "end_game": "End Game",
+    "resize": "Resize"
   },
   "errors": {
     "translation_database_only": "Sorry. Only scripts loaded from the database can be translated at this time."
@@ -370,6 +371,9 @@
       "error": "Failed to export game to Clocktracker",
       "player_order": "Player Order"
     },
+    "edit_night_order": {
+      "title": "Edit Night Order"
+    },
     "night_icons": {
       "title": "Night Order Icons",
       "icon_size": "Icon Size",
@@ -427,13 +431,15 @@
     "multiple_demons_warning": "Multiple demons detected that don't allow multiple instances.",
     "player_names": "Player Names",
     "player_placeholder": "Player {number}",
-    "save_names": "Save Names",
+    "add_as_player": "Add as Player",
+    "add_as_friend": "Add as Friend",
+    "active": "Active",
+    "no_players_added": "No players added yet.",
     "persist_players_prompt": "Persist your player names for future games by logging into Discord and adding them to your friends list.",
-    "friends_list_prompt": "Open the User menu to administer your Friends list. Friends are automatically included in the 'Quick Add' section when drawing tokens, without needing to be added here.",
     "clear": "Clear",
     "by": "by",
     "view_bootlegger_info": "View Bootlegger Information",
-    "edit_names_optional": "Edit Names (Optional)",
+    "edit_names_optional": "Choose Players",
     "search_placeholder": "Search by name (e.g. Uncertain Death)",
     "unknown": "unknown",
     "no_matching_scripts": "No matching scripts found",
@@ -675,22 +681,12 @@
     "title": "Privacy Policy"
   },
   "vote": {
-    "voting_on": "Voting on",
-    "how_many_votes_receive": "How many votes did {playerName} receive?",
     "nominates": "nominates",
     "to_tie": "to tie",
     "to_execute": "to execute",
     "votes_needed_to": "Votes needed to",
     "exile": "exile",
-    "execute": "execute",
-    "voting_in_progress": "Voting in progress...",
-    "count_the_votes": "Count the votes...",
-    "start": "Start",
-    "skip": "Skip",
-    "speed": "Speed",
-    "speed_normal": "1x (Normal)",
-    "speed_fast": "2x (Fast)",
-    "speed_very_fast": "3x (Very Fast)"
+    "execute": "execute"
   },
   "drawer": {
     "edit_player_name": "Edit player name",

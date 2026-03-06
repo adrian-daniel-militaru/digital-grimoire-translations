@@ -57,7 +57,8 @@
     "send": "Enviar",
     "enabled": "Habilitado",
     "disabled": "Deshabilitado",
-    "end_game": "Finalizar partida"
+    "end_game": "Finalizar partida",
+    "resize": "Redimensionar"
   },
   "errors": {
     "translation_database_only": "Lo sentimos. Solo los guiones cargados desde la base de datos pueden traducirse en este momento."
@@ -368,6 +369,9 @@
       "error": "Error al exportar la partida a Clocktracker",
       "player_order": "Orden de jugadores"
     },
+    "edit_night_order": {
+      "title": "Editar orden nocturno"
+    },
     "night_icons": {
       "title": "Iconos del Orden Nocturno",
       "icon_size": "Tamaño del icono",
@@ -425,13 +429,15 @@
     "multiple_demons_warning": "Se detectaron múltiples demonios que no permiten instancias múltiples.",
     "player_names": "Nombres de Jugadores",
     "player_placeholder": "Jugador {number}",
-    "save_names": "Guardar Nombres",
+    "add_as_player": "Agregar como jugador",
+    "add_as_friend": "Agregar como amigo",
+    "active": "Activo",
+    "no_players_added": "No se han agregado jugadores aún.",
     "persist_players_prompt": "Guarda los nombres de tus jugadores para futuras partidas iniciando sesión en Discord y agregándolos a tu lista de amigos.",
-    "friends_list_prompt": "Abre el menú de Usuario para administrar tu lista de Amigos. Los amigos se incluyen automáticamente en la sección 'Agregar rápido' al repartir fichas, sin necesidad de agregarlos aquí.",
     "clear": "Limpiar",
     "by": "por",
     "view_bootlegger_info": "Ver Información del Contrabandista",
-    "edit_names_optional": "Editar Nombres (Opcional)",
+    "edit_names_optional": "Elegir jugadores",
     "search_placeholder": "Buscar por nombre (ej. Uncertain Death)",
     "unknown": "desconocido",
     "no_matching_scripts": "No se encontraron guiones coincidentes",
@@ -673,22 +679,12 @@
     "title": "Política de Privacidad"
   },
   "vote": {
-    "voting_on": "Votando sobre",
-    "how_many_votes_receive": "¿Cuántos votos recibió {playerName}?",
     "nominates": "nomina a",
     "to_tie": "para empatar",
     "to_execute": "para ejecutar",
     "votes_needed_to": "Votos necesarios para",
     "exile": "exiliar",
-    "execute": "ejecutar",
-    "voting_in_progress": "Votación en curso...",
-    "count_the_votes": "Cuenta los votos...",
-    "start": "Iniciar",
-    "skip": "Saltar",
-    "speed": "Velocidad",
-    "speed_normal": "1x (Normal)",
-    "speed_fast": "2x (Rápido)",
-    "speed_very_fast": "3x (Muy rápido)"
+    "execute": "ejecutar"
   },
   "drawer": {
     "edit_player_name": "Editar nombre del jugador",

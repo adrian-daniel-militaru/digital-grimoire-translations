@@ -57,7 +57,8 @@
     "enabled": "Aktivert",
     "disabled": "Deaktivert",
     "wiki": "Wiki",
-    "end_game": "Avslutt spill"
+    "end_game": "Avslutt spill",
+    "resize": "Endre størrelse"
   },
   "nav": {
     "brand": "Digital Grimoire",
@@ -359,6 +360,9 @@
       "error": "Kunne ikke eksportere spillet til Clocktracker",
       "player_order": "Spillerrekkefølge"
     },
+    "edit_night_order": {
+      "title": "Rediger nattrekkefølge"
+    },
     "night_icons": {
       "title": "Nattrekkefølge-ikoner",
       "icon_size": "Ikonstørrelse",
@@ -425,13 +429,15 @@
     "multiple_demons_warning": "Du har to demoner i posen.",
     "player_names": "Spillernavn",
     "player_placeholder": "Spiller {number}",
-    "save_names": "Lagre navn",
+    "add_as_player": "Legg til som spiller",
+    "add_as_friend": "Legg til som venn",
+    "active": "Aktiv",
+    "no_players_added": "Ingen spillere lagt til ennå.",
     "persist_players_prompt": "Lagre spillernavnene dine for fremtidige spill ved å logge inn med Discord og legge dem til i vennelisten din.",
-    "friends_list_prompt": "Åpne brukermenyen for å administrere vennelisten din. Venner blir automatisk inkludert i 'Hurtig legg til'-seksjonen når du trekker brikker, uten å måtte legges til her.",
     "clear": "Tøm",
     "by": "av",
     "view_bootlegger_info": "Vis Hjemmebrenner-informasjon",
-    "edit_names_optional": "Rediger navn (valgfritt)",
+    "edit_names_optional": "Velg spillere",
     "search_placeholder": "Søk etter navn (f.eks. Uncertain Death)",
     "unknown": "ukjent",
     "no_matching_scripts": "Ingen samsvarende skript funnet",
@@ -673,22 +679,12 @@
     "title": "Personvernerklæring"
   },
   "vote": {
-    "voting_on": "Avstemmer om",
-    "how_many_votes_receive": "Hvor mange stemmer fikk {playerName}?",
     "nominates": "nominerer",
     "to_tie": "for uavgjort",
     "to_execute": "for å henrette",
     "votes_needed_to": "Stemmer som trengs for å",
     "exile": "forvise",
-    "execute": "henrette",
-    "voting_in_progress": "Avstemming pågår...",
-    "count_the_votes": "Tell stemmene...",
-    "start": "Start",
-    "skip": "Hopp over",
-    "speed": "Hastighet",
-    "speed_normal": "1x (Normal)",
-    "speed_fast": "2x (Rask)",
-    "speed_very_fast": "3x (Veldig rask)"
+    "execute": "henrette"
   },
   "drawer": {
     "edit_player_name": "Rediger spillernavn",

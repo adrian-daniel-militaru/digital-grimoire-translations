@@ -57,7 +57,8 @@
     "send": "Senden",
     "enabled": "Aktiviert",
     "disabled": "Deaktiviert",
-    "end_game": "Spiel beenden"
+    "end_game": "Spiel beenden",
+    "resize": "Größe ändern"
   },
   "errors": {
     "translation_database_only": "Entschuldigung. Nur Skripte aus der Datenbank können derzeit übersetzt werden."
@@ -368,6 +369,9 @@
       "error": "Export an Clocktracker fehlgeschlagen",
       "player_order": "Spielerreihenfolge"
     },
+    "edit_night_order": {
+      "title": "Nachtreihenfolge bearbeiten"
+    },
     "night_icons": {
       "title": "Nachtordnung-Symbole",
       "icon_size": "Symbolgröße",
@@ -425,13 +429,15 @@
     "multiple_demons_warning": "Mehrere Dämonen erkannt, die keine mehrfachen Instanzen zulassen.",
     "player_names": "Spielernamen",
     "player_placeholder": "Spieler {number}",
-    "save_names": "Namen speichern",
+    "add_as_player": "Als Spieler hinzufügen",
+    "add_as_friend": "Als Freund hinzufügen",
+    "active": "Aktiv",
+    "no_players_added": "Noch keine Spieler hinzugefügt.",
     "persist_players_prompt": "Speichere deine Spielernamen für zukünftige Spiele, indem du dich bei Discord anmeldest und sie zu deiner Freundesliste hinzufügst.",
-    "friends_list_prompt": "Öffne das Benutzermenü, um deine Freundesliste zu verwalten. Freunde werden automatisch im Bereich 'Schnell hinzufügen' beim Ziehen von Spielsteinen einbezogen, ohne sie hier hinzufügen zu müssen.",
     "clear": "Löschen",
     "by": "von",
     "view_bootlegger_info": "Bootlegger-Informationen anzeigen",
-    "edit_names_optional": "Namen bearbeiten (Optional)",
+    "edit_names_optional": "Spieler auswählen",
     "search_placeholder": "Suche nach Namen (z.B. Uncertain Death)",
     "unknown": "unbekannt",
     "no_matching_scripts": "Keine passenden Skripte gefunden",
@@ -673,22 +679,12 @@
     "title": "Datenschutzerklärung"
   },
   "vote": {
-    "voting_on": "Abstimmung über",
-    "how_many_votes_receive": "Wie viele Stimmen hat {playerName} erhalten?",
     "nominates": "nominiert",
     "to_tie": "zum Gleichstand",
     "to_execute": "zur Hinrichtung",
     "votes_needed_to": "Benötigte Stimmen zum",
     "exile": "Exil",
-    "execute": "Hinrichten",
-    "voting_in_progress": "Abstimmung läuft...",
-    "count_the_votes": "Zähle die Stimmen...",
-    "start": "Start",
-    "skip": "Überspringen",
-    "speed": "Geschwindigkeit",
-    "speed_normal": "1x (Normal)",
-    "speed_fast": "2x (Schnell)",
-    "speed_very_fast": "3x (Sehr schnell)"
+    "execute": "Hinrichten"
   },
   "drawer": {
     "edit_player_name": "Spielernamen bearbeiten",
