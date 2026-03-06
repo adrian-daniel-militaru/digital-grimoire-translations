@@ -251,7 +251,8 @@
       "add_sfx_button": "Añadir Efecto de Sonido",
       "select_for_timer": "Seleccionar para temporizador",
       "timer_sound": "Sonido del temporizador",
-      "auto_fade_phase": "Atenuar volumen en Día/Noche"
+      "auto_fade_phase": "Atenuar volumen en Día/Noche",
+      "sfx_volume": "Volumen de efectos de sonido: {volume}%"
     },
     "nomination": {
       "select_target_title": "Seleccionar Objetivo de Nominación",
@@ -345,7 +346,7 @@
       "save_friends": "Guardar Amigos",
       "logout": "Cerrar sesión",
       "delete_game_confirmation_title": "Eliminar Juego Guardado",
-      "delete_game_confirmation_message": "¿Estás seguro de que quieres eliminar \"<strong>{name}</strong>\"? Esta acción no se puede deshacer."
+      "delete_game_confirmation_message": "¿Estás seguro de que quieres eliminar <strong>{name}</strong>? Esta acción no se puede deshacer."
     },
     "background": {
       "title": "Editar Fondo",

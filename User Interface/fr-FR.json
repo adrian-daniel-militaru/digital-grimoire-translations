@@ -242,7 +242,8 @@
       "add_sfx_button": "Ajouter un effet sonore",
       "select_for_timer": "Sélectionner pour minuterie",
       "timer_sound": "Son de la minuterie",
-      "auto_fade_phase": "Atténuer le volume Jour/Nuit"
+      "auto_fade_phase": "Atténuer le volume Jour/Nuit",
+      "sfx_volume": "Volume des effets sonores : {volume}%"
     },
     "nomination": {
       "select_target_title": "Sélectionner la cible de la nomination",
@@ -336,7 +337,7 @@
       "save_friends": "Enregistrer les amis",
       "logout": "Déconnexion",
       "delete_game_confirmation_title": "Supprimer la partie sauvegardée",
-      "delete_game_confirmation_message": "Êtes-vous sûr de vouloir supprimer \"<strong>{name}</strong>\" ? Cette action est irréversible."
+      "delete_game_confirmation_message": "Êtes-vous sûr de vouloir supprimer <strong>{name}</strong> ? Cette action est irréversible."
     },
     "background": {
       "title": "Modifier l'arrière-plan",

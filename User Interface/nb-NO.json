@@ -242,7 +242,8 @@
       "add_sfx_button": "Legg til lydeffekt",
       "select_for_timer": "Velg for tidtaker",
       "timer_sound": "Tidtakerlyd",
-      "auto_fade_phase": "Demp volum ved Dag/Natt"
+      "auto_fade_phase": "Demp volum ved Dag/Natt",
+      "sfx_volume": "Lydeffektvolum: {volume}%"
     },
     "nomination": {
       "select_target_title": "Velg nominasjonsmål",
@@ -336,7 +337,7 @@
       "save_friends": "Lagre venner",
       "logout": "Logg ut",
       "delete_game_confirmation_title": "Slett lagret spill",
-      "delete_game_confirmation_message": "Er du sikker på at du vil slette \"<strong>{name}</strong>\"? Denne handlingen kan ikke angres."
+      "delete_game_confirmation_message": "Er du sikker på at du vil slette <strong>{name}</strong>? Denne handlingen kan ikke angres."
     },
     "background": {
       "title": "Rediger bakgrunn",

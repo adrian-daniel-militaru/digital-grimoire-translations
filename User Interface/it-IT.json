@@ -251,7 +251,8 @@
       "add_sfx_button": "Aggiungi Suono",
       "select_for_timer": "Seleziona per timer",
       "timer_sound": "Suono timer",
-      "auto_fade_phase": "Dissolvi volume Giorno/Notte"
+      "auto_fade_phase": "Dissolvi volume Giorno/Notte",
+      "sfx_volume": "Volume effetti sonori: {volume}%"
     },
     "nomination": {
       "select_target_title": "Seleziona Bersaglio Nomina",
@@ -345,7 +346,7 @@
       "save_friends": "Salva Amici",
       "logout": "Esci",
       "delete_game_confirmation_title": "Elimina Partita Salvata",
-      "delete_game_confirmation_message": "Sei sicuro di voler eliminare '{name}'? Questa azione non può essere annullata."
+      "delete_game_confirmation_message": "Sei sicuro di voler eliminare <strong>{name}</strong>? Questa azione non può essere annullata."
     },
     "background": {
       "title": "Modifica Sfondo",

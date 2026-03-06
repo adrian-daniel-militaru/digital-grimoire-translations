@@ -251,7 +251,8 @@
       "add_sfx_button": "Добави звуковия ефект",
       "select_for_timer": "Избери за таймер",
       "timer_sound": "Звук на таймера",
-      "auto_fade_phase": "Автоматично затихване"
+      "auto_fade_phase": "Автоматично затихване",
+      "sfx_volume": "Звук на ефектите: {volume}%"
     },
     "nomination": {
       "select_target_title": "Избери кого номинираш",
@@ -345,7 +346,7 @@
       "save_friends": "Запази приятели",
       "logout": "Излез",
       "delete_game_confirmation_title": "Изтрий запазената игри",
-      "delete_game_confirmation_message": "Сигурен ли си, че искаш да изтриеш '{name}'? Това действие е необратимо."
+      "delete_game_confirmation_message": "Сигурен ли си, че искаш да изтриеш <strong>{name}</strong>? Това действие е необратимо."
     },
     "background": {
       "title": "Редактирай фона",

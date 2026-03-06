@@ -251,7 +251,8 @@
       "add_sfx_button": "Добавить звук",
       "select_for_timer": "Выбрать для таймера",
       "timer_sound": "Звук таймера",
-      "auto_fade_phase": "Затухание при смене Дня/Ночи"
+      "auto_fade_phase": "Затухание при смене Дня/Ночи",
+      "sfx_volume": "Громкость звуков: {volume}%"
     },
     "nomination": {
       "select_target_title": "Выберите цель номинации",
@@ -345,7 +346,7 @@
       "save_friends": "Сохранить список",
       "logout": "Выйти",
       "delete_game_confirmation_title": "Удалить сохранение",
-      "delete_game_confirmation_message": "Вы уверены, что хотите удалить '{name}'? Это действие необратимо."
+      "delete_game_confirmation_message": "Вы уверены, что хотите удалить <strong>{name}</strong>? Это действие необратимо."
     },
     "background": {
       "title": "Изменить фон",

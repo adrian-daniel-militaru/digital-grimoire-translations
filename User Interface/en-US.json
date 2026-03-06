@@ -251,7 +251,8 @@
       "add_sfx_button": "Add Sound Effect",
       "select_for_timer": "Select for timer",
       "timer_sound": "Timer sound",
-      "auto_fade_phase": "Fade volume on Day/Night"
+      "auto_fade_phase": "Fade volume on Day/Night",
+      "sfx_volume": "SFX Volume: {volume}%"
     },
     "nomination": {
       "select_target_title": "Select Nomination Target",
@@ -345,7 +346,7 @@
       "save_friends": "Save Friends",
       "logout": "Logout",
       "delete_game_confirmation_title": "Delete Saved Game",
-      "delete_game_confirmation_message": "Are you sure you want to delete '{name}'? This action cannot be undone."
+      "delete_game_confirmation_message": "Are you sure you want to delete <strong>{name}</strong>? This action cannot be undone."
     },
     "background": {
       "title": "Edit Background",
