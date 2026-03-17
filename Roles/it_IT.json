@@ -20,9 +20,9 @@
     {
         "id": "minioninfo",
         "edition": "special",
-        "name": "Info Sgherri",
+        "name": "Info Seguaci",
         "team": "minion",
-        "firstNightReminder": "Se ci sono 7 o più giocatori, sveglia tutti gli Sgherri:\n\tMostra la carta *QUESTO È IL DEMONE*. Indica il Demone.\n\tMostra la carta *QUESTI SONO I TUOI SGHERRI*. Indica gli altri Sgherri.",
+        "firstNightReminder": "Se ci sono 7 o più giocatori, sveglia tutti gli Seguaci:\n\tMostra la carta *QUESTO È IL DEMONE*. Indica il Demone.\n\tMostra la carta *QUESTI SONO I TUOI SEGUACI*. Indica gli altri Seguaci.",
         "firstNight": 15,
         "otherNight": 0
     },
@@ -31,7 +31,7 @@
         "edition": "special",
         "name": "Info Demone",
         "team": "demon",
-        "firstNightReminder": "Se ci sono 7 o più giocatori, sveglia il Demone:\n\tMostra la carta *QUESTI SONO I TUOI SGHERRI*. Indica tutti gli Sgherri.\n\tMostra la carta *QUESTI PERSONAGGI NON SONO IN GIOCO*. Mostra i gettoni di 3 personaggi buoni non-in-gioco.",
+        "firstNightReminder": "Se ci sono 7 o più giocatori, sveglia il Demone:\n\tMostra la carta *QUESTI SONO I TUOI SEGUACI*. Indica tutti gli Seguaci.\n\tMostra la carta *QUESTI PERSONAGGI NON SONO IN GIOCO*. Mostra i gettoni di 3 personaggi buoni non-in-gioco.",
         "firstNight": 19,
         "otherNight": 0
     },
@@ -58,15 +58,15 @@
         "edition": "tb",
         "team": "townsfolk",
         "firstNight": 44,
-        "firstNightReminder": "Mostra il gettone personaggio del Forestiero. Indica i giocatori *FORESTIERO* e *FALSO*.",
+        "firstNightReminder": "Mostra il gettone personaggio del Emarginato. Indica i giocatori *EMARGINATO* e *FALSO*.",
         "otherNight": 0,
         "otherNightReminder": "",
         "reminders": [
-            "Forestiero",
+            "Emarginato",
             "Falso"
         ],
         "setup": false,
-        "ability": "Inizi sapendo che 1 tra 2 giocatori è un determinato Forestiero. (O che non ce ne sono.)",
+        "ability": "Inizi sapendo che 1 tra 2 giocatori è un determinato Emarginato. (O che non ce ne sono.)",
         "special": null
     },
     {
@@ -75,20 +75,20 @@
         "edition": "tb",
         "team": "townsfolk",
         "firstNight": 45,
-        "firstNightReminder": "Mostra il gettone personaggio dello Sgherro. Indica i giocatori *SGHERRO* e *FALSO*.",
+        "firstNightReminder": "Mostra il gettone personaggio dello Seguace. Indica i giocatori *SEGUACE* e *FALSO*.",
         "otherNight": 0,
         "otherNightReminder": "",
         "reminders": [
-            "Sgherro",
+            "Seguace",
             "Falso"
         ],
         "setup": false,
-        "ability": "Inizi sapendo che 1 tra 2 giocatori è un determinato Sgherro.",
+        "ability": "Inizi sapendo che 1 tra 2 giocatori è un determinato Seguace.",
         "special": null
     },
     {
         "id": "chef",
-        "name": "Chef",
+        "name": "Cuoco",
         "edition": "tb",
         "team": "townsfolk",
         "firstNight": 46,
@@ -102,7 +102,7 @@
     },
     {
         "id": "empath",
-        "name": "Sensitivo",
+        "name": "Empatico",
         "edition": "tb",
         "team": "townsfolk",
         "firstNight": 47,
@@ -116,13 +116,13 @@
     },
     {
         "id": "fortuneteller",
-        "name": "Chiromante",
+        "name": "Indovino",
         "edition": "tb",
         "team": "townsfolk",
         "firstNight": 48,
-        "firstNightReminder": "Il Chiromante sceglie 2 giocatori. Annuisci se uno dei due è il Demone (o la *FALSA PISTA*).",
+        "firstNightReminder": "L'Indovino sceglie 2 giocatori. Annuisci se uno dei due è il Demone (o la *FALSA PISTA*).",
         "otherNight": 70,
-        "otherNightReminder": "Il Chiromante sceglie 2 giocatori. Annuisci se uno dei due è il Demone (o la *FALSA PISTA*).",
+        "otherNightReminder": "L'Indovino sceglie 2 giocatori. Annuisci se uno dei due è il Demone (o la *FALSA PISTA*).",
         "reminders": [
             "Falsa Pista"
         ],
@@ -280,7 +280,7 @@
     },
     {
         "id": "recluse",
-        "name": "Solitario",
+        "name": "Recluso",
         "edition": "tb",
         "team": "outsider",
         "firstNight": 0,
@@ -289,7 +289,7 @@
         "otherNightReminder": "",
         "reminders": [],
         "setup": false,
-        "ability": "Potresti apparire malvagio e come uno Sgherro o Demone, anche da morto.",
+        "ability": "Potresti apparire malvagio e come uno Seguace o Demone, anche da morto.",
         "special": null
     },
     {
@@ -319,7 +319,7 @@
             "Avvelenato"
         ],
         "setup": false,
-        "ability": "Ogni notte, scegli un giocatore: è avvelenato stanotte e domani di giorno.",
+        "ability": "Ogni notte, scegli un giocatore: è avvelenato stanotte e domani giorno.",
         "special": null
     },
     {
@@ -333,7 +333,7 @@
         "otherNightReminder": "Mostra il Grimorio alla Spia per tutto il tempo che necessita.",
         "reminders": [],
         "setup": false,
-        "ability": "Ogni notte, vedi il Grimorio. Potresti apparire buono e come un Cittadino o Forestiero, anche da morto.",
+        "ability": "Ogni notte, vedi il Grimorio. Potresti apparire buono e come un Cittadino o Emarginato, anche da morto.",
         "special": null
     },
     {
@@ -363,7 +363,7 @@
         "otherNightReminder": "",
         "reminders": [],
         "setup": true,
-        "ability": "Ci sono Forestieri aggiuntivi in gioco. [+2 Forestieri]",
+        "ability": "Ci sono Emarginati aggiuntivi in gioco. [+2 Emarginati]",
         "special": null
     },
     {
@@ -374,12 +374,12 @@
         "firstNight": 0,
         "firstNightReminder": "",
         "otherNight": 35,
-        "otherNightReminder": "L'Imp sceglie un giocatore. :reminder: Se l'Imp sceglie sé stesso: rimpiazza il gettone di 1 Sgherro vivo con un gettone Imp aggiuntivo. Manda il vecchio Imp a dormire. Sveglia il nuovo Imp. Mostra la carta *TU SEI*, poi mostra il gettone Imp.",
+        "otherNightReminder": "L'Imp sceglie un giocatore. :reminder: Se l'Imp sceglie sé stesso: rimpiazza il gettone di 1 Seguace vivo con un gettone Imp aggiuntivo. Manda il vecchio Imp a dormire. Sveglia il nuovo Imp. Mostra la carta *TU SEI*, poi mostra il gettone Imp.",
         "reminders": [
             "Morto"
         ],
         "setup": false,
-        "ability": "Ogni notte*, scegli un giocatore: muore. Se uccidi te stesso in questo modo, uno Sgherro diventa l'Imp.",
+        "ability": "Ogni notte*, scegli un giocatore: muore. Se uccidi te stesso in questo modo, un Seguace diventa l'Imp.",
         "special": null
     },
     {
@@ -538,13 +538,13 @@
     },
     {
         "id": "gambler",
-        "name": "Scommettitore",
+        "name": "Giocatore d'azzardo",
         "edition": "bmr",
         "team": "townsfolk",
         "firstNight": 0,
         "firstNightReminder": "",
         "otherNight": 16,
-        "otherNightReminder": "Lo Scommettitore indica un giocatore e un personaggio sulla sua scheda personaggi. Se sbaglia, lo Scommettitore muore.",
+        "otherNightReminder": "Il Giocatore d'azzardo indica un giocatore e un personaggio sulla sua scheda personaggi. Se sbaglia, il Giocatore d'azzardo muore.",
         "reminders": [
             "Morto"
         ],
@@ -622,7 +622,7 @@
     },
     {
         "id": "tealady",
-        "name": "Signora del Tè",
+        "name": "Dama del Tè",
         "edition": "bmr",
         "team": "townsfolk",
         "firstNight": 0,
@@ -669,13 +669,13 @@
     },
     {
         "id": "tinker",
-        "name": "Tuttofare",
+        "name": "Inventore",
         "edition": "bmr",
         "team": "outsider",
         "firstNight": 0,
         "firstNightReminder": "",
         "otherNight": 65,
-        "otherNightReminder": "Lo Smanettone potrebbe morire.",
+        "otherNightReminder": "L'Inventore potrebbe morire.",
         "reminders": [
             "Morto"
         ],
@@ -685,13 +685,13 @@
     },
     {
         "id": "moonchild",
-        "name": "Strambo",
+        "name": "Figlio della luna",
         "edition": "bmr",
         "team": "outsider",
         "firstNight": 0,
         "firstNightReminder": "",
         "otherNight": 66,
-        "otherNightReminder": "Se lo Strambo ha usato la propria abilità per colpire un giocatore oggi: se quel giocatore è buono, muore.",
+        "otherNightReminder": "Se il Figlio della luna ha usato la propria abilità per colpire un giocatore oggi: se quel giocatore è buono, muore.",
         "reminders": [
             "Morto"
         ],
@@ -739,26 +739,26 @@
         "edition": "bmr",
         "team": "minion",
         "firstNight": 29,
-        "firstNightReminder": "Mostra ogni gettone Forestiero in gioco",
+        "firstNightReminder": "Mostra ogni gettone Emarginato in gioco",
         "otherNight": 52,
-        "otherNightReminder": "Se un Forestiero è morto oggi: il Padrino indica un giocatore. Quel giocatore muore.",
+        "otherNightReminder": "Se un Emarginato è morto oggi: il Padrino indica un giocatore. Quel giocatore muore.",
         "reminders": [
             "Morto oggi",
             "Muore"
         ],
         "setup": true,
-        "ability": "Inizi sapendo quali Forestieri sono in gioco. Se 1 è morto oggi, scegli un giocatore stanotte: muore. [-1 oppure +1 Forestieri]",
+        "ability": "Inizi sapendo quali Emarginato sono in gioco. Se 1 è morto oggi, scegli un giocatore stanotte: muore. [-1 oppure +1 Emarginato]",
         "special": null
     },
     {
         "id": "devilsadvocate",
-        "name": "Avvocato",
+        "name": "Avvocato del diavolo",
         "edition": "bmr",
         "team": "minion",
         "firstNight": 31,
-        "firstNightReminder": "L'Avvocato indica un giocatore in vita. Quel giocatore sopravvive all'esecuzione domani.",
+        "firstNightReminder": "L'Avvocato del diavolo indica un giocatore in vita. Quel giocatore sopravvive all'esecuzione domani.",
         "otherNight": 21,
-        "otherNightReminder": "L'Avvocato indica un giocatore in vita. Quel giocatore sopravvive all'esecuzione domani.",
+        "otherNightReminder": "L'Avvocato del diavolo indica un giocatore in vita. Quel giocatore sopravvive all'esecuzione domani.",
         "reminders": [
             "Sopravvive esecuzione"
         ],
@@ -785,7 +785,7 @@
     },
     {
         "id": "mastermind",
-        "name": "Cospiratore",
+        "name": "Mastermind",
         "edition": "bmr",
         "team": "minion",
         "firstNight": 0,
@@ -829,7 +829,7 @@
             "Morto"
         ],
         "setup": false,
-        "ability": "Ogni notte, scegli un giocatore: è avvelenato. Il giocatore precedentemente avvelenato muore poi diventa in salute. ",
+        "ability": "Ogni notte, scegli un giocatore: è avvelenato. Il giocatore precedentemente avvelenato muore poi diventa sano. ",
         "special": null
     },
     {
@@ -858,7 +858,7 @@
         "firstNight": 0,
         "firstNightReminder": "",
         "otherNight": 39,
-        "otherNightReminder": "Se il Po non ha scelto nessuno la notte precedente: il Po indica 3 giocatori. Altrimenti, il Po può fare segno di \"No\" con la testa, o scegliere un giocatore. Quel giocatore muore.",
+        "otherNightReminder": "Se il Po non ha scelto nessuno l'occasione precedente: il Po indica 3 giocatori. Altrimenti, il Po può fare segno di \"No\" con la testa, o scegliere un giocatore. Quel giocatore muore.",
         "reminders": [
             "3 attacchi",
             "3 attacchi",
@@ -976,13 +976,13 @@
     },
     {
         "id": "snakecharmer",
-        "name": "Fachiro",
+        "name": "Incantatore di Serpenti",
         "edition": "snv",
         "team": "townsfolk",
         "firstNight": 28,
-        "firstNightReminder": "Il Fachiro indica un giocatore. Se quel giocatore è il Demone: scambia personaggio e allineamento del Fachiro e del Demone. Sveglia entrambi i giocatori e informali del loro nuovo personaggio e allineamento. Il nuovo Fachiro è avvelenato.",
+        "firstNightReminder": "L'Incantatore di serpenti indica un giocatore. Se quel giocatore è il Demone: scambia personaggio e allineamento del Incantatore di serpenti e del Demone. Sveglia entrambi i giocatori e informali del loro nuovo personaggio e allineamento. Il nuovo Incantatore di serpenti è avvelenato.",
         "otherNight": 18,
-        "otherNightReminder": "Il Fachiro indica un giocatore. Se quel giocatore è il Demone: scambia personaggio e allineamento del Fachiro e del Demone. Sveglia entrambi i giocatori e informali del loro nuovo personaggio e allineamento. Il nuovo Fachiro è avvelenato.",
+        "otherNightReminder": "L'Incantatore di serpenti indica un giocatore. Se quel giocatore è il Demone: scambia personaggio e allineamento del Incantatore di serpenti e del Demone. Sveglia entrambi i giocatori e informali del loro nuovo personaggio e allineamento. Il nuovo Incantatore di serpenti è avvelenato.",
         "reminders": [
             "Avvelenato"
         ],
@@ -1041,7 +1041,7 @@
             "Seguace non accusa"
         ],
         "setup": false,
-        "ability": "Ogni notte*, scopri se oggi un Seguace ha accusato.",
+        "ability": "Ogni notte*, scopri se oggi un Seguace ha nominato.",
         "special": null
     },
     {
@@ -1099,7 +1099,7 @@
         "otherNightReminder": "Se il filosofo non ha ancora usato la sua abilità: il Filosofo fa segno di \"No\" con la testa, oppure indica un personaggio buono sulla lista. Se sceglie un personaggio: scambia il gettone del personaggio non in gioco con il gettone del Filosofo. Oppure, se il personaggio è in gioco, posiziona il promemoria \"Ubriaco\" accanto a quel giocatore e il promemoria \"È il filosofo\" accanto al filosofo.",
         "reminders": [],
         "setup": false,
-        "ability": "Una volta per partita, di notte, scegli un personaggio buono: ottieni quell'abilità. Se quel personaggio è in gioco, diventa ubriaco.",
+        "ability": "Una volta per partita, di notte, scegli un personaggio buono: ottieni quell'abilità. Se quel personaggio è in gioco, lui diventa ubriaco.",
         "special": [
             {
                 "type": "reveal",
@@ -1172,12 +1172,12 @@
         "otherNightReminder": "",
         "reminders": [],
         "setup": false,
-        "ability": "Se sei \"Folle\" di essere un Forestiero, potresti venire giustiziato.",
+        "ability": "Se sei \"Folle\" di essere un Emarginato, potresti essere giustiziato.",
         "special": null
     },
     {
         "id": "sweetheart",
-        "name": "Innamorato",
+        "name": "Innamorata",
         "edition": "snv",
         "team": "outsider",
         "firstNight": 0,
@@ -1204,12 +1204,12 @@
             "Taglio Stanotte"
         ],
         "setup": false,
-        "ability": "Quando muori (sia durante la notte che per un'esecuzione), la notte successiva il Demone può scegliere 2 giocatori (che non siano Demoni) per scambiare i loro ruoli.",
+        "ability": "Quando muori (sia durante la notte che per un'esecuzione), la notte successiva il Demone può scegliere 2 giocatori (che non siano altri Demoni) per scambiare i loro ruoli.",
         "special": null
     },
     {
         "id": "klutz",
-        "name": "Pasticcione",
+        "name": "Imbranato",
         "edition": "snv",
         "team": "outsider",
         "firstNight": 0,
@@ -1250,7 +1250,7 @@
             "Maledetto"
         ],
         "setup": false,
-        "ability": "Ogni notte, scegli un giocatore: se domani accusa, muore. Se ci sono solo 3 giocatori in vita, perdi questa abilità.",
+        "ability": "Ogni notte, scegli un giocatore: se domani nomina, muore. Se ci sono solo 3 giocatori in vita, perdi questa abilità.",
         "special": null
     },
     {
@@ -1271,13 +1271,13 @@
     },
     {
         "id": "pithag",
-        "name": "Megera",
+        "name": "Fattucchiera",
         "edition": "snv",
         "team": "minion",
         "firstNight": 0,
         "firstNightReminder": "",
         "otherNight": 24,
-        "otherNightReminder": "La Megera indica un giocatore e un personaggio sulla lista. Se questo personaggio non è in gioco, sveglia quel giocatore e mostragli la tessera \"Tu sei\" e il gettone personaggio che è diventato. Se il personaggio è già in gioco, non succede niente.",
+        "otherNightReminder": "La Fattucchiera indica un giocatore e un personaggio sulla lista. Se questo personaggio non è in gioco, sveglia quel giocatore e mostragli la tessera \"Tu sei\" e il gettone personaggio che è diventato. Se il personaggio è già in gioco, non succede niente.",
         "reminders": [],
         "setup": false,
         "ability": "Ogni notte*, scegli un giocatore e il personaggio che diventa (se non in gioco). Se viene creato un Demone, le morti stanotte saranno arbitrarie.",
@@ -1297,7 +1297,7 @@
             "Uno"
         ],
         "setup": true,
-        "ability": "Ogni notte*, scegli un giocatore: muore. Il 1° Forestiero che questa abilità uccide diventa un Fang Gu malvagio e tu muori al suo posto. [+1 Forestiero]",
+        "ability": "Ogni notte*, scegli un giocatore: muore. Il 1° Emarginato che questa abilità uccide diventa un Fang Gu malvagio e tu muori al suo posto. [+1 Emarginato]",
         "special": null
     },
     {
@@ -1319,7 +1319,7 @@
             "Morto"
         ],
         "setup": true,
-        "ability": "Ogni notte*, scegli un giocatore: muore. I Seguaci che uccidi mantengono le loro abilità e avvelenano un Cittadino loro vicino. [-1 Forestiero]",
+        "ability": "Ogni notte*, scegli un giocatore: muore. I Seguaci che uccidi mantengono le loro abilità e avvelenano un Cittadino a loro vicino. [-1 Emarginato]",
         "special": null
     },
     {
