@@ -747,7 +747,7 @@
             "Muore"
         ],
         "setup": true,
-        "ability": "Inizi sapendo quali Emarginato sono in gioco. Se 1 è morto oggi, scegli un giocatore stanotte: muore. [-1 oppure +1 Emarginato]",
+        "ability": "Inizi sapendo quali Emarginati sono in gioco. Se 1 è morto oggi, scegli un giocatore stanotte: muore. [-1 oppure +1 Emarginato]",
         "special": null
     },
     {
