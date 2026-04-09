@@ -233,7 +233,7 @@
         "otherNightReminder": "",
         "reminders": [],
         "setup": false,
-        "ability": "Se solo 3 giocatori sono vivi e non avviene alcuna esecuzione, la tua squadra vince. Se muori di notte, un altro giocatore potrebbe morire al tuo posto.",
+        "ability": "Se solo 3 giocatori sono vivi e nessuno viene giustiziato, la tua squadra vince. Se muori di notte, un altro giocatore potrebbe morire al tuo posto.",
         "special": null
     },
     {
